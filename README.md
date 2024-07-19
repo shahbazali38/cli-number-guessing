@@ -1,2 +1,2 @@
 # cli-number-guessing
-This project  made for  Governer Initiative Artificial Intelligence
+This is cli based numbers guessing game
